@@ -1,6 +1,6 @@
 ### IM_CLAM
 
-OrthoFinder is a package for exact calculation of the joint site frequency spectrum under Isolation with Migration models as described in Kern and Hey (to appear).
+im_clam is a package for exact calculation of the joint site frequency spectrum under Isolation with Migration models as described in Kern and Hey (to appear).
 
 ### Import docker image
 
